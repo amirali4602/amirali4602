@@ -9,17 +9,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=amirali4602&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-## ⚡ About Me
+
+## About Me
 - I am a developer specializing in ASP.NET Core, Entity Framework, and Angular.
 - My focus is on designing clean, maintainable APIs and building robust web applications.
 - Currently, I am pursuing a Master's degree in Artificial Intelligence while continuously refining my software engineering practices.
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - Currently studying Artificial Intelligence at the graduate level
 - Deepening my expertise in Domain-Driven Design and Clean Architecture
 - Ask me about ASP.NET Core, Entity Framework, or Angular
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 <div align="center">
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-555?style=for-the-badge) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-555?style=for-the-badge) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-555?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-555?style=for-the-badge) ![Domain-Driven Design (DDD)](https://img.shields.io/badge/Domain-Driven%20Design%20(DDD)-555?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
