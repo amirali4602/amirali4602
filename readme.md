@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirali4602&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=amirali4602&color=400000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
