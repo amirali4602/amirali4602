@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:125224,100:22D3EE&height=220&section=header&text=amirali%20mehdipour&fontSize=42&fontColor=ffffff&desc=Full-Stack%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular%20%7C%20C%23%20%7C%20SQL%20Server%20%7C%20Clean%20Architecture&descSize=18&descAlign=50&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:125224,100:22D3EE&height=220&section=header&text=amirali%20mehdipour&fontSize=42&fontColor=ffffff&desc=Full-Stack%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular%20%7C%20C%23%20%7C%20SQL%20Server%20%7C%20Clean%20Architecture&descSize=18&descAlign=50&descAlignY=64)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Building%20scalable%20web%20applications;Designing%20clean%20APIs%20with%20.NET%20Core;Bridging%20software%20engineering%20and%20AI)](https://git.io/typing-svg)
