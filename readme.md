@@ -26,6 +26,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-555?style=for-the-badge) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-555?style=for-the-badge) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-555?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-555?style=for-the-badge) ![Domain-Driven Design (DDD)](https://img.shields.io/badge/Domain-Driven%20Design%20(DDD)-555?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
+
 ## 📊 GitHub Analytics
 <div align="center">
 
@@ -48,6 +49,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amirali4602&theme=tokyonight&no-frame=true&column=7&margin-w=10)
 
 </div>
+
 ## 🤝 Connect & Support
 
 <div align="center">
